@@ -7,3 +7,4 @@ community
 airdrop
 presale
 tokens
+reward
