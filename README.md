@@ -6,3 +6,4 @@ developer
 community
 airdrop
 presale
+tokens
