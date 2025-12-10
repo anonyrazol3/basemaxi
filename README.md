@@ -11,3 +11,4 @@ reward
 vesting
 dump
 pump
+community first
