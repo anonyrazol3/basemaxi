@@ -12,3 +12,4 @@ vesting
 dump
 pump
 community first
+fake promises
