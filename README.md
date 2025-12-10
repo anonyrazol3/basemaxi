@@ -15,3 +15,4 @@ community first
 fake promises
 rug
 jeet
+dev blames community
