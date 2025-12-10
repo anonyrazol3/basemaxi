@@ -8,3 +8,4 @@ airdrop
 presale
 tokens
 reward
+vesting
