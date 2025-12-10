@@ -5,3 +5,4 @@ coding
 developer
 community
 airdrop
+presale
