@@ -10,3 +10,4 @@ tokens
 reward
 vesting
 dump
+pump
