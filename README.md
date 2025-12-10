@@ -23,3 +23,4 @@ dev go to miami beach
 dev carry 70 rihanna
 dev  broke
 dev create new project
+dev say community first
